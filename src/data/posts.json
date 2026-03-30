@@ -1,5 +1,20 @@
 [
   {
+    "id": 12,
+    "title": "My Modern React Website is Live!",
+    "slug": "my-modern-react-website-live",
+    "date": "2026-03-30T15:06:00+00:00",
+    "modified": "2026-03-30T15:06:00+00:00",
+    "author": {
+      "name": "June Zheng",
+      "firstName": "June",
+      "lastName": "Zheng"
+    },
+    "content": "<p>March 30, 2026</p>\n<p>I'm excited to announce that my modern React website is now live and it is completely free!</p>\n<p>I successfully converted my old WordPress blog to a modern React application. The new site is faster, cleaner, and easier to maintain.</p>\n<p>You can visit it at: <a href=\"https://takasak-blog.netlify.app/\">https://takasak-blog.netlify.app/</a></p>\n<p>The best part? It's hosted for free on Netlify with automatic deployments from GitHub. Every time I update my code, the site automatically rebuilds and deploys!</p>\n<p>This journey has taught me so much about modern web development, React, and deployment workflows. I'm proud of what I've accomplished today.</p>\n",
+    "excerpt": "March 30, 2026. My modern React website is now live and it is completely free! Successfully converted from WordPress to React.",
+    "category": "Uncategorized"
+  },
+  {
     "id": 11,
     "title": "My goal for Computer programming",
     "slug": "my-goal-for-computer-programming",
