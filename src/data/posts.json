@@ -1,0 +1,47 @@
+[
+  {
+    "id": 11,
+    "title": "My goal for Computer programming",
+    "slug": "my-goal-for-computer-programming",
+    "date": "2018-10-21T20:34:45+00:00",
+    "modified": "2021-05-08T19:15:05+00:00",
+    "author": {
+      "name": "June Zheng",
+      "firstName": "June",
+      "lastName": "Zheng"
+    },
+    "content": "<p>I am going to finish my Associate Degree in University of the People.  First , my plan  is to go through the CS 2205 Web Programming 1 in the term 1 , 2018 .</p>\n<p>Second, I will take two courses in the coming term 2.</p>\n<p>At Last, I plan to find some tutor for my difficult course.</p>\n<p>Set up a History book website which attach with my paypal business account.</p>\n<p>update some daily feature from my everyday reading</p>\n<p>Use computer skill to build a network with  wordpress.</p>\n",
+    "excerpt": "I am going to finish my Associate Degree in University of the People.  First , my plan  is to go through the CS 2205 Web Programming 1 in the term 1 , 2018 . Second, I will take two courses in the coming term 2. At Last, I plan to find some tutor for my difficult course.",
+    "category": "Uncategorized"
+  },
+  {
+    "id": 4,
+    "title": "My Goal for language learning",
+    "slug": "my-goal-for-language-learning",
+    "date": "2011-10-09T20:36:23+00:00",
+    "modified": "2018-10-08T15:50:44+00:00",
+    "author": {
+      "name": "June Zheng",
+      "firstName": "June",
+      "lastName": "Zheng"
+    },
+    "content": "<p>1.</p>\n<p><em>My goal for learning english:</em></p>\n<p>My goal is to read more in English. I want to study pharmacy technician program.  I need to finish my grade 12 English class.</p>\n<p>2.</p>\n<p><em>What  I will do to to help my achieve my goal:</em></p>\n<p>I have to finish these tasks.</p>\n<p>I read two 250 words articles in the textbook every day.</p>\n<p>I write an essay of 200 words every day.</p>\n<p>I read a 250 words article  on the msn.ca website.</p>\n<p>&nbsp;</p>\n<p>Which of the above steps will challenge you the most?</p>\n<p>&nbsp;</p>\n<p>There is a lot of specialised vocabulary in the health area ,and my task  3  will help me with achieve this goal</p>\n",
+    "excerpt": "My goal for learning english: My goal is to read more in English. I want to study pharmacy technician program.  I need to finish my grade 12 English class.",
+    "category": "Uncategorized"
+  },
+  {
+    "id": 1,
+    "title": "Hello world!",
+    "slug": "hello-world",
+    "date": "2011-05-20T21:17:54+00:00",
+    "modified": "2011-05-20T21:17:54+00:00",
+    "author": {
+      "name": "June Zheng",
+      "firstName": "June",
+      "lastName": "Zheng"
+    },
+    "content": "<p>Welcome to <a href=\"http://wordpress.com/\">WordPress.com</a>. After you read this, you should delete and write your own post, with a new title above. Or hit <a title=\"Direct link to the Add New in the Admin Dashboard\" href=\"/wp-admin/post-new.php\">Add New</a> on the left (of the <a title=\"Direct link to this blog's admin dashboard\" href=\"/wp-admin\">admin dashboard</a>) to start a fresh post.</p>\n<p><a title=\"Learn WordPress.com—From zero to hero.\" href=\"http://learn.wordpress.com/\">Here</a> are some suggestions for your first post.</p>\n<ol>\n<li>You can find new ideas for what to blog about by reading <a title=\"The Daily Post at WordPress.com—post something every day\" href=\"http://dailypost.wordpress.com/\">the Daily Post</a>.</li>\n<li>Add <a title=\"Click the &quot;Press This&quot; link on this page to activate the Press this bookmark feature.\" href=\"/wp-admin/tools.php\">PressThis</a> to your browser. It creates a new blog post for you about any interesting  page you read on the web.</li>\n<li><a title=\"Edit the first post on this blog.\" href=\"/wp-admin/post.php?post=1&amp;action=edit\">Make some changes to this page</a>, and then hit preview on the right. You can alway preview any post or edit you before you share it to the world.</li>\n</ol>\n",
+    "excerpt": "Welcome to WordPress.com. After you read this, you should delete and write your own post, with a new title above. Or hit Add New on the left (of the admin dashboard) to start a fresh post.",
+    "category": "Uncategorized"
+  }
+]
