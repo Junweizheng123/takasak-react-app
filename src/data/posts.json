@@ -6,11 +6,11 @@
     "date": "2026-03-30T15:14:00+00:00",
     "modified": "2026-03-30T15:14:00+00:00",
     "author": {
-      "name": "June Zheng",
-      "firstName": "June",
+      "name": "Junwei Zheng",
+      "firstName": "Junwei",
       "lastName": "Zheng"
     },
-    "content": "<p><strong>This website is dedicated to my mom.</strong></p>\n<div style=\"text-align: center; margin: 30px 0;\">\n<img src=\"/mom-photo.jpg\" alt=\"June with Mom\" style=\"max-width: 100%; max-height: 600px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);\" />\n</div>\n<p>Mom, this is for you. I built this website to share my journey with you and to show you what I've been learning.</p>\n<p>Thank you for always supporting me in my education and career. Thank you for believing in me when I was learning English and studying to become a Health Care Aide. Thank you for encouraging me to pursue computer programming.</p>\n<p>This website represents all the skills I've learned - from my language learning goals to my computer programming journey. Every blog post, every line of code, every accomplishment - I share them here so you can see my progress.</p>\n<p>Building this modern React website and seeing it live on the internet is a milestone I want to celebrate with you. It shows how far I've come from my early days of learning English and basic computer skills.</p>\n<p>I hope this makes you proud.</p>\n<p><em>With love,<br/>June</em></p>\n",
+    "content": "<div style=\"text-align: center; margin: 30px 0;\">\n<img src=\"/mom-photo.jpg\" alt=\"Junwei with Mom\" style=\"max-width: 100%; max-height: 600px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);\" />\n</div>\n\n<h3 style=\"text-align: center; color: #2c3e50; margin-top: 40px;\">🌟 English / 英文 🌟</h3>\n\n<p><strong>This website is dedicated to my mom.</strong></p>\n<p>Mom, this is for you. I built this website to share my journey with you and to show you what I've been learning.</p>\n<p>Thank you for always supporting me in my education and career. Thank you for believing in me when I was learning English and studying to become a Health Care Aide. Thank you for encouraging me to pursue computer programming.</p>\n<p>This website represents all the skills I've learned - from my language learning goals to my computer programming journey. Every blog post, every line of code, every accomplishment - I share them here so you can see my progress.</p>\n<p>Building this modern React website and seeing it live on the internet is a milestone I want to celebrate with you. It shows how far I've come from my early days of learning English and basic computer skills.</p>\n<p>I hope this makes you proud.</p>\n<p><em>With love,<br/>Junwei</em></p>\n\n<hr style=\"margin: 40px 0; border: none; border-top: 2px solid #ecf0f1;\" />\n\n<h3 style=\"text-align: center; color: #2c3e50;\">🌟 中文 / Chinese 🌟</h3>\n\n<p><strong>这个网站是献给我的妈妈的。</strong></p>\n<p>妈妈，这是为您做的。我建立这个网站是为了与您分享我的学习历程，让您看到我学到的东西。</p>\n<p>感谢您一直以来对我的教育和职业的支持。感谢您在我学习英语时相信我，感谢您支持我成为医疗护理助理。感谢您鼓励我学习计算机编程。</p>\n<p>这个网站代表了我学到的所有技能——从我的语言学习目标到我的计算机编程之路。每一篇博客文章，每一行代码，每一个成就——我都在这里分享，让您可以看到我的进步。</p>\n<p>建立这个现代化的React网站并看到它在互联网上上线，是我想与您一起庆祝的一个里程碑。这显示了我从早期学习英语和基本计算机技能到现在走了多远。</p>\n<p>我希望这让您感到骄傲。</p>\n<p><em>爱您的，<br/>俊伟</em></p>\n",
     "excerpt": "This website is dedicated to my mom. Thank you for always supporting me in my education and career.",
     "category": "Uncategorized"
   },
@@ -21,8 +21,8 @@
     "date": "2026-03-30T15:06:00+00:00",
     "modified": "2026-03-30T15:06:00+00:00",
     "author": {
-      "name": "June Zheng",
-      "firstName": "June",
+      "name": "Junwei Zheng",
+      "firstName": "Junwei",
       "lastName": "Zheng"
     },
     "content": "<p>March 30, 2026</p>\n<p>I'm excited to announce that my modern React website is now live and it is completely free!</p>\n<p>I successfully converted my old WordPress blog to a modern React application. The new site is faster, cleaner, and easier to maintain.</p>\n<p>You can visit it at: <a href=\"https://takasak-blog.netlify.app/\">https://takasak-blog.netlify.app/</a></p>\n<p>The best part? It's hosted for free on Netlify with automatic deployments from GitHub. Every time I update my code, the site automatically rebuilds and deploys!</p>\n<p>This journey has taught me so much about modern web development, React, and deployment workflows. I'm proud of what I've accomplished today.</p>\n",
@@ -36,8 +36,8 @@
     "date": "2018-10-21T20:34:45+00:00",
     "modified": "2021-05-08T19:15:05+00:00",
     "author": {
-      "name": "June Zheng",
-      "firstName": "June",
+      "name": "Junwei Zheng",
+      "firstName": "Junwei",
       "lastName": "Zheng"
     },
     "content": "<p>I am going to finish my Associate Degree in University of the People.  First , my plan  is to go through the CS 2205 Web Programming 1 in the term 1 , 2018 .</p>\n<p>Second, I will take two courses in the coming term 2.</p>\n<p>At Last, I plan to find some tutor for my difficult course.</p>\n<p>Set up a History book website which attach with my paypal business account.</p>\n<p>update some daily feature from my everyday reading</p>\n<p>Use computer skill to build a network with  wordpress.</p>\n",
@@ -51,8 +51,8 @@
     "date": "2011-10-09T20:36:23+00:00",
     "modified": "2018-10-08T15:50:44+00:00",
     "author": {
-      "name": "June Zheng",
-      "firstName": "June",
+      "name": "Junwei Zheng",
+      "firstName": "Junwei",
       "lastName": "Zheng"
     },
     "content": "<p>1.</p>\n<p><em>My goal for learning english:</em></p>\n<p>My goal is to read more in English. I want to study pharmacy technician program.  I need to finish my grade 12 English class.</p>\n<p>2.</p>\n<p><em>What  I will do to to help my achieve my goal:</em></p>\n<p>I have to finish these tasks.</p>\n<p>I read two 250 words articles in the textbook every day.</p>\n<p>I write an essay of 200 words every day.</p>\n<p>I read a 250 words article  on the msn.ca website.</p>\n<p>&nbsp;</p>\n<p>Which of the above steps will challenge you the most?</p>\n<p>&nbsp;</p>\n<p>There is a lot of specialised vocabulary in the health area ,and my task  3  will help me with achieve this goal</p>\n",
@@ -66,8 +66,8 @@
     "date": "2011-05-20T21:17:54+00:00",
     "modified": "2011-05-20T21:17:54+00:00",
     "author": {
-      "name": "June Zheng",
-      "firstName": "June",
+      "name": "Junwei Zheng",
+      "firstName": "Junwei",
       "lastName": "Zheng"
     },
     "content": "<p>Welcome to <a href=\"http://wordpress.com/\">WordPress.com</a>. After you read this, you should delete and write your own post, with a new title above. Or hit <a title=\"Direct link to the Add New in the Admin Dashboard\" href=\"/wp-admin/post-new.php\">Add New</a> on the left (of the <a title=\"Direct link to this blog's admin dashboard\" href=\"/wp-admin\">admin dashboard</a>) to start a fresh post.</p>\n<p><a title=\"Learn WordPress.com—From zero to hero.\" href=\"http://learn.wordpress.com/\">Here</a> are some suggestions for your first post.</p>\n<ol>\n<li>You can find new ideas for what to blog about by reading <a title=\"The Daily Post at WordPress.com—post something every day\" href=\"http://dailypost.wordpress.com/\">the Daily Post</a>.</li>\n<li>Add <a title=\"Click the &quot;Press This&quot; link on this page to activate the Press this bookmark feature.\" href=\"/wp-admin/tools.php\">PressThis</a> to your browser. It creates a new blog post for you about any interesting  page you read on the web.</li>\n<li><a title=\"Edit the first post on this blog.\" href=\"/wp-admin/post.php?post=1&amp;action=edit\">Make some changes to this page</a>, and then hit preview on the right. You can alway preview any post or edit you before you share it to the world.</li>\n</ol>\n",

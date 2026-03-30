@@ -9,7 +9,7 @@ function About() {
       <div className="about-content">
         <p>Welcome to my blog!</p>
         <p>
-          My name is <strong>June Zheng</strong>. I'm passionate about learning, 
+          My name is <strong>Junwei Zheng (郑俊伟)</strong>. I'm passionate about learning, 
           technology, and personal development.
         </p>
         <p>
