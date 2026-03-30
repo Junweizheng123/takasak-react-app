@@ -1,5 +1,20 @@
 [
   {
+    "id": 13,
+    "title": "This Website is for My Mom",
+    "slug": "this-website-for-my-mom",
+    "date": "2026-03-30T15:14:00+00:00",
+    "modified": "2026-03-30T15:14:00+00:00",
+    "author": {
+      "name": "June Zheng",
+      "firstName": "June",
+      "lastName": "Zheng"
+    },
+    "content": "<p>This website is dedicated to my mom.</p>\n<p>Mom, this is for you. I built this website to share my journey with you and to show you what I've been learning.</p>\n<p><img src=\"/images/mom-photo.jpg\" alt=\"With Mom\" style=\"max-width: 100%; height: auto; border-radius: 8px; margin: 20px 0;\" /></p>\n<p>Thank you for always supporting me in my education and career. Thank you for believing in me when I was learning English and studying to become a Health Care Aide. Thank you for encouraging me to pursue computer programming.</p>\n<p>This website represents all the skills I've learned - from my language learning goals to my computer programming journey. I hope it makes you proud.</p>\n<p>Love,<br/>June</p>\n",
+    "excerpt": "This website is dedicated to my mom. Thank you for always supporting me in my education and career.",
+    "category": "Uncategorized"
+  },
+  {
     "id": 12,
     "title": "My Modern React Website is Live!",
     "slug": "my-modern-react-website-live",
